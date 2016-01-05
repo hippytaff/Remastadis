@@ -204,7 +204,7 @@ case $1  in
 
 
     *)
-        echo "Usage of remastersys $REMASTADIS is as follows:"
+        echo "Usage of remastadis $REMASTADISVERSION is as follows:"
         echo " "
         echo "   sudo remastersys backup|clean|dist [cdfs|iso] [filename.iso]"
         echo " "
