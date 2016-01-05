@@ -7,9 +7,6 @@ Which is good for me, because I want to use it to learn stuff...
 Todo
 
 - sed Remastersys - remastadis
-- Proper readme
-- Install.txt
-- Support for Moksha/E17 Desktop/Bodhilinux.
-- Test and hack accordingly
+- Test and hack, playabout accordingly
 
-(currently untested - might break stuff :/ )
+(currently untested and merely a plaything for learning - might break stuff :/ )
