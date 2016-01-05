@@ -8,7 +8,7 @@ Todo
 - sed Remastersys - remastadis
 - Proper readme
 - Install.txt
-- Support for Moksha/E17 Desktop (for Bodhilinux if Jeff at al want it)
+- Support for Moksha/E17 Desktop/Bodhilinux.
 - Test and hack accordingly
 
 (currently untested - might break stuff :/ )
